@@ -2,7 +2,7 @@
 I made This very simple tool to make setting item offsets for your created items easy as moving it into position and clicking a button!
 
 
-to use this simply import the unity package into your [Project Template](https://github.com/EvaisaDev/LethalCompanyUnityTemplate) and open the OffsetScene that is included. **NOTE. depending on your setup this will most likely crash Unity as its a lil baby just reboot this are fine**
+to use this simply import the unity package into your [Project Template](https://github.com/EvaisaDev/LethalCompanyUnityTemplate) and open the OffsetScene that is included. **NOTE. depending on your setup this will most likely crash Unity as its a lil baby. just reboot it is fine**
 
 
 then drag the prefab of your item into the main Hierarchy and **NOT** in the **ScavengerModelArmsOnly** item, this makes sure your prefab is world-scaled and the correct size.
